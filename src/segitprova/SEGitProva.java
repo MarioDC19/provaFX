@@ -26,6 +26,8 @@ public class SEGitProva extends Application {
     stage.show();
     
     /*FORZA NAPOLI*/
+    
+    //MOD2
   }
 
   /**
