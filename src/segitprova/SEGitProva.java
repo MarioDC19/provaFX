@@ -27,7 +27,7 @@ public class SEGitProva extends Application {
     
     /*FORZA NAPOLI*/
     
-    //MOD2
+    //MOD23
   }
 
   /**
