@@ -24,6 +24,8 @@ public class SEGitProva extends Application {
     
     stage.setScene(scene);
     stage.show();
+    
+    /*FORZA NAPOLI*/
   }
 
   /**
