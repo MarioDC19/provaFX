@@ -25,6 +25,7 @@ public class FXMLDocumentController implements Initializable {
     System.out.println("You clicked me!");
     label.setText("Hello World!");
     //mod master
+    //prova2
   }
   
   @Override
