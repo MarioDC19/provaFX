@@ -32,6 +32,7 @@ public class FXMLDocumentController implements Initializable {
   public void initialize(URL url, ResourceBundle rb) {
     // TODO
     //prova modifica branch
+    //ciao
   }  
   
 }
